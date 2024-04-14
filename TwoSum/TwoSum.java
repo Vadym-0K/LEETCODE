@@ -1,3 +1,5 @@
+package TwoSum;
+
 public class TwoSum {
     public static void main(String[] args) throws Exception {
         int[] nums = { -9295143, 2872114, 5179897, -1874858, -1522240, 8630629, -6570285, 3250420, 6378064, -1658058,
